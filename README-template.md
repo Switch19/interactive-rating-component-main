@@ -9,11 +9,11 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
+  - [Built with](#Html, #Css,#Js)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+  - [Useful resources](StackOverflow, Google, Youtube))
+- [Author](SwitchTega)
 - [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
