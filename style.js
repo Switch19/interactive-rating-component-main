@@ -20,28 +20,3 @@ buttons.forEach(function (btn) {
 })
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-function log(x) {
-    console.log(x)
-}
