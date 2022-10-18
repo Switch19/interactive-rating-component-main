@@ -11,13 +11,9 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Continued development](#continued-development)
 - [Author](SwitchTega)
 
-
-
-
 ### Links
 
-- Live Site URL: (https://teal-cocada-7269d9.netlify.app)
-
+- Live Site URL: (https://taupe-meerkat-2c8a2c.netlify.app)
 
 ### Built with
 
